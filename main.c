@@ -1,9 +1,8 @@
 /*
 --------------------------------
 TAREA N°2 : APLICACION DE GRAFOS
-NOMBRES: VICENTE ROA & BENJAMIN QUEZADA
+NOMBRES: VICENTE ROA
 FECHA :  20 - 10 - 2022
-RUT :  21.287.775-1 - 21.158.853-5
 ---------------------------------
 INFO: Construir un programa en C que lea desde el archivo entregado las estaciones
 del metro y las conexiones entre estas y muestre un menú que permita elegir los distintos casos.
